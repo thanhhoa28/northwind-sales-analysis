@@ -73,31 +73,31 @@ The goal is to support data-driven decision-making through Business Intelligence
 ![Overview](dashboard_overview.png)
 
 ### Customer Analysis
-![Customer](images/dashboard_customer.png)
+![Customer](dashboard_customer.png)
 
 ### Country Analysis
-![Country](images/dashboard_country.png)
+![Country](dashboard_country.png)
 
 ### City Analysis
-![City](images/dashboard_city.png)
+![City](dashboard_city.png)
 
 ### Product Analysis
-![Product](images/dashboard_product.png)
+![Product](dashboard_product.png)
 
 ### Category Analysis
-![Category](images/dashboard_category.png)
+![Category](dashboard_category.png)
 
 ### Employee Performance
-![Employee](images/dashboard_employee.png)
+![Employee](dashboard_employee.png)
 
 ### Supplier Analysis
-![Supplier](images/dashboard_supplier.png)
+![Supplier](dashboard_supplier.png)
 
 ### Shipper Analysis
-![Shipper](images/dashboard_shipper.png)
+![Shipper](dashboard_shipper.png)
 
 ### Time Analysis
-![Time](images/dashboard_time.png)
+![Time](dashboard_time.png)
 
 ## Project Structure
 - data/
