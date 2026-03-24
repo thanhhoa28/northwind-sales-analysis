@@ -1,18 +1,17 @@
 # Customer Segmentation using RFM
 
-## Objective
-Segment customers based on purchasing behavior.
+## Customer Segmentation (RFM Analysis)
 
-## Method
-- RFM scoring
-- Data normalization
-- K-means clustering
-- Elbow method
+### Methodology
+- Applied RFM (Recency, Frequency, Monetary) to evaluate customer behavior.
+- Used K-means clustering to segment customers into distinct groups.
+- Data preprocessing and clustering were performed using R.
 
-## Output
-- Customer segments
-- Cluster characteristics
+### Key Findings
+- Customers were segmented into multiple groups based on purchasing behavior.
+- A high-value segment was identified with frequent purchases and high spending.
+- Some customer groups show low engagement and irregular purchase patterns.
 
-## Insights
-- High-value customers identified
-- Low-frequency customers need retention strategies
+Business implication:
+- Focus on retaining high-value customers through loyalty programs and personalized offers.
+- Re-engage low-activity customers with targeted marketing campaigns.
