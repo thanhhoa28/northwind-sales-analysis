@@ -70,34 +70,34 @@ The goal is to support data-driven decision-making through Business Intelligence
 
 ## Dashboard Preview
 ### Overview
-![Overview](images/1.NorthWind_Overview.png)
+![Overview](images/dashboard_overview.png)
 
 ### Customer Analysis
-![Customer](images/2.NorthWind_byCustomer.png)
+![Customer](images/dashboard_customer.png)
 
 ### Country Analysis
-![Country](images/3.NorthWind_byCustomer_Country.png)
+![Country](images/dashboard_country.png)
 
 ### City Analysis
-![City](images/4.NorthWind_byCustomer_City.png)
+![City](images/dashboard_city.png)
 
 ### Product Analysis
-![Product](images/5.NorthWind_byCategories.png)
+![Product](images/dashboard_product.png)
 
 ### Category Analysis
-![Category](images/6.NorthWind_byProducts.png)
+![Category](images/dashboard_category.png)
 
 ### Employee Performance
-![Employee](images/7.NorthWind_byEmployees.png)
+![Employee](images/dashboard_employee.png)
 
 ### Supplier Analysis
-![Supplier](images/8.NorthWind_bySuppliers.png)
+![Supplier](images/dashboard_supplier.png)
 
 ### Shipper Analysis
-![Shipper](images/9.NorthWind_byShippers.png)
+![Shipper](images/dashboard_shipper.png)
 
 ### Time Analysis
-![Time](images/10.NorthWind_byCalendar.png)
+![Time](images/dashboard_time.png)
 
 ## Project Structure
 - data/
