@@ -76,6 +76,7 @@ Business implication:
 - A small group of customers contributes a significant portion of total profit, highlighting a concentration of high-value customers.
 - Loyal customers generate consistent revenue over time, acting as key drivers of business performance.
 - Customer segmentation (RFM analysis) reveals distinct groups with different purchasing behaviors and values.
+- A small group of customers contributes a disproportionate share of total revenue, indicating a strong Pareto effect (80/20 rule).
 
 Business implication:
 - Focus on retaining high-value customers through personalized strategies and loyalty programs.
@@ -94,6 +95,7 @@ Business implication:
 - Shipping and operational costs vary across suppliers and regions, directly affecting profitability.
 - Supplier and logistics performance plays a critical role in maintaining service efficiency.
 - A small number of orders remain unfulfilled, indicating minor inefficiencies in order fulfillment processes.
+- In some regions, shipping costs significantly reduce profit margins, even when revenue is high.
 
 Business implication:
 - Optimize supplier selection and logistics to reduce operational costs.
