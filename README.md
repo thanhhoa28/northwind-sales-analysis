@@ -4,6 +4,8 @@ End-to-end sales analysis using Python, R, and Power BI
 ## Overview
 This project analyzes sales data from the Northwind database to uncover insights about customer behavior, product performance, and business operations.
 
+The company wants to understand sales performance, customer behavior, and operational efficiency in order to improve profitability and optimize decision-making.
+
 The goal is to support data-driven decision-making through Business Intelligence and advanced analytics.
 
 ## Objectives
