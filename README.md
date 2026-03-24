@@ -70,7 +70,7 @@ The goal is to support data-driven decision-making through Business Intelligence
 
 ## Dashboard Preview
 ### Overview
-![Overview](images/dashboardoverview.png)
+![Overview](/Users/crystal/Desktop/dashboard_overview.png)
 
 ### Customer Analysis
 ![Customer](images/dashboard_customer.png)
