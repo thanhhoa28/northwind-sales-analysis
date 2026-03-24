@@ -32,41 +32,40 @@ The goal is to support data-driven decision-making through Business Intelligence
 ## Analysis
 
 ### Sales Performance
-- Revenue trends over time
-- Profit analysis
+- Total revenue reached approximately $1.24M over a 3-year period, indicating stable business operations.
+- Profit accounted for around 29% of total revenue, suggesting that costs have a significant impact on profitability.
+- High spending on promotions and discounts contributed to revenue growth but may reduce overall profit margins.
+- Inventory turnover is high, indicating efficient inventory management and strong sales flow.
+
+Business implication:
+- The company should optimize cost structure, especially promotional expenses, to improve profit margins while maintaining revenue growth.
 
 ### Customer Analysis
-- Top customers
-- Customer contribution to revenue
+- A small group of customers contributes a significant portion of total profit, highlighting a concentration of high-value customers.
+- Loyal customers generate consistent revenue over time, acting as key drivers of business performance.
+- Customer segmentation (RFM analysis) reveals distinct groups with different purchasing behaviors and values.
+
+Business implication:
+- Focus on retaining high-value customers through personalized strategies and loyalty programs.
+- Develop targeted campaigns to increase engagement from low-value segments.
 
 ### Product Analysis
-- Best-selling products
-- Profit margins
+- A limited number of products dominate total sales, indicating dependency on key product lines.
+- Some products generate high revenue but relatively low profit margins due to associated costs or discounts.
+- Product performance varies across categories, suggesting opportunities for portfolio optimization.
+
+Business implication:
+- Prioritize high-margin products in marketing and sales strategies.
+- Re-evaluate low-margin products and adjust pricing or cost structure.
 
 ### Operational Analysis
-- Shipping costs
-- Supplier impact
+- Shipping and operational costs vary across suppliers and regions, directly affecting profitability.
+- Supplier and logistics performance plays a critical role in maintaining service efficiency.
+- A small number of orders remain unfulfilled, indicating minor inefficiencies in order fulfillment processes.
 
-## Advanced Analytics
-
-### Customer Segmentation
-- Applied RFM (Recency, Frequency, Monetary)
-- Used K-means clustering
-- Identified customer groups
-
-### Revenue Forecasting
-- Built regression model in R
-- Predicted future revenue trends
-
-## Key Insights
-- A small group of customers contributes the majority of revenue
-- High shipping cost reduces profitability in some regions
-- Discount policies significantly impact profit margins
-
-## Recommendations
-- Focus on high-value customers
-- Optimize logistics costs
-- Adjust discount strategies
+Business implication:
+- Optimize supplier selection and logistics to reduce operational costs.
+- Improve order fulfillment processes to enhance customer satisfaction.
 
 ## Dashboard Preview
 ### Overview
