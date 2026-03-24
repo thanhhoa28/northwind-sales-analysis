@@ -30,6 +30,36 @@ The goal is to support data-driven decision-making through Business Intelligence
 - Removed redundant columns
 - Created new features (Revenue, Full Name)
 - Built Snowflake schema in Power BI
+## Dashboard Preview
+### Overview
+![Overview](dashboard_overview.png)
+
+### Customer Analysis
+![Customer](dashboard_customer.png)
+
+### Country Analysis
+![Country](dashboard_country.png)
+
+### City Analysis
+![City](dashboard_city.png)
+
+### Product Analysis
+![Product](dashboard_product.png)
+
+### Category Analysis
+![Category](dashboard_category.png)
+
+### Employee Performance
+![Employee](dashboard_employee.png)
+
+### Supplier Analysis
+![Supplier](dashboard_supplier.png)
+
+### Shipper Analysis
+![Shipper](dashboard_shipper.png)
+
+### Time Analysis
+![Time](dashboard_time.png)
 
 ## Analysis
 
@@ -68,37 +98,6 @@ Business implication:
 Business implication:
 - Optimize supplier selection and logistics to reduce operational costs.
 - Improve order fulfillment processes to enhance customer satisfaction.
-
-## Dashboard Preview
-### Overview
-![Overview](dashboard_overview.png)
-
-### Customer Analysis
-![Customer](dashboard_customer.png)
-
-### Country Analysis
-![Country](dashboard_country.png)
-
-### City Analysis
-![City](dashboard_city.png)
-
-### Product Analysis
-![Product](dashboard_product.png)
-
-### Category Analysis
-![Category](dashboard_category.png)
-
-### Employee Performance
-![Employee](dashboard_employee.png)
-
-### Supplier Analysis
-![Supplier](dashboard_supplier.png)
-
-### Shipper Analysis
-![Shipper](dashboard_shipper.png)
-
-### Time Analysis
-![Time](dashboard_time.png)
 
 ## Project Structure
 - data/
