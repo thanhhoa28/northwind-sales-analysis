@@ -69,9 +69,37 @@ The goal is to support data-driven decision-making through Business Intelligence
 - Adjust discount strategies
 
 ## Dashboard Preview
-images/1.NorthWind_Overview.png
+### Overview
+![Overview](images/1.NorthWind_Overview.png)
 
-## 📁 Project Structure
+### Customer Analysis
+![Customer](images/2.NorthWind_byCustomer.png)
+
+### Country Analysis
+![Country](images/3.NorthWind_byCustomer_Country.png)
+
+### City Analysis
+![City](images/4.NorthWind_byCustomer_City.png)
+
+### Product Analysis
+![Product](images/5.NorthWind_byCategories.png)
+
+### Category Analysis
+![Category](images/6.NorthWind_byProducts.png)
+
+### Employee Performance
+![Employee](images/7.NorthWind_byEmployees.png)
+
+### Supplier Analysis
+![Supplier](images/8.NorthWind_bySuppliers.png)
+
+### Shipper Analysis
+![Shipper](images/9.NorthWind_byShippers.png)
+
+### Time Analysis
+![Time](images/10.NorthWind_byCalendar.png)
+
+## Project Structure
 - data/
 - notebooks/
 - r_scripts/
