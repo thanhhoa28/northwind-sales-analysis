@@ -69,7 +69,7 @@ The goal is to support data-driven decision-making through Business Intelligence
 - Adjust discount strategies
 
 ## Dashboard Preview
-(Add screenshots here)
+images/1.NorthWind_Overview.png
 
 ## 📁 Project Structure
 - data/
